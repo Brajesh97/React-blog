@@ -30,7 +30,7 @@ const Header = () => {
                 };
               }}
             >
-              Home
+              HOME
             </NavLink>
           </div>
           <div>
@@ -44,7 +44,7 @@ const Header = () => {
                 };
               }}
             >
-              Bollywood
+              BOLLYWOOD
             </NavLink>
           </div>
           <div>
@@ -58,7 +58,7 @@ const Header = () => {
                 };
               }}
             >
-              Technology
+              TECHNOLOGY
             </NavLink>
           </div>
           <div>
@@ -72,7 +72,7 @@ const Header = () => {
                 };
               }}
             >
-              Hollywood
+              HOLLYWOOD
             </NavLink>
           </div>
           <div>
@@ -86,7 +86,7 @@ const Header = () => {
                 };
               }}
             >
-              Fitness
+              FITNESS
             </NavLink>
           </div>
           <div>
@@ -100,7 +100,7 @@ const Header = () => {
                 };
               }}
             >
-              Food
+              FOOD
             </NavLink>
           </div>
         </div>
